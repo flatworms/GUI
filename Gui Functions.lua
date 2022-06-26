@@ -1,4 +1,4 @@
-local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/flatworms/ShadowHub/main/Fluxlib.lua")()
+local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/flatworms/GUI/main/Flux.lua?token=GHSAT0AAAAAABVYJYPXGEZRGKXGK3Z2W25IYVX2LCA")()
 
 
 
